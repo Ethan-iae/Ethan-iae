@@ -2,7 +2,6 @@
 
 **主修艺术 / 业余写代码**
 **Art student by day / coding beginner by night**
-
 <br>
 
 ### 💡 About Me / 关于我
