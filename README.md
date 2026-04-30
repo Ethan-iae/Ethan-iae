@@ -1,5 +1,4 @@
 ## Hi there, I'm exploring Art, Retro & AI
-
 <br>
 
 ### 💡 About Me / 关于我
