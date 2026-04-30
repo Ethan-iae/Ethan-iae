@@ -4,6 +4,7 @@
 **Art student by day / coding beginner by night**
 
 <br>
+
 ### 💡 About Me / 关于我
 
 * 🇨🇳 **中文**：你好！我是一名艺术专业学生。我喜欢数码复古文化，也对前沿的人工智能（AI）领域感兴趣。目前，我正在使用 **Python** 和 **JavaScript** 来学习和创造我感兴趣的东西。我希望能在这里找到志同道合的朋友。
