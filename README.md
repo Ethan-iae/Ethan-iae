@@ -1,8 +1,8 @@
 ## Hi there, I'm exploring Art, Retro & AI
 ### 💡 About Me / 关于我
 
-* 🇨🇳 **中文**：你好！我是一名艺术专业学生。我喜欢数码复古文化，也对前沿的人工智能（AI）领域感兴趣。目前，我正在使用 **Python** 和 **JavaScript** 来学习和创造我感兴趣的东西。我希望能在这里找到志同道合的朋友。
-* 🇬🇧 **English**: Hello! I'm a sophomore majoring in Art. I am fascinated by retro aesthetics and the infinite possibilities of Artificial Intelligence. I'm currently using **Python** and **JavaScript** to explore my interests and build cool stuff. I'm here to connect with like-minded friends.
+* **中文**：你好！我是一名艺术专业学生。我喜欢数码复古文化，也对前沿的人工智能（AI）领域感兴趣。目前，我正在使用 **Python** 和 **JavaScript** 来学习和创造我感兴趣的东西。我希望能在这里找到志同道合的朋友。
+* **English**: Hello! I'm a sophomore majoring in Art. I am fascinated by retro aesthetics and the infinite possibilities of Artificial Intelligence. I'm currently using **Python** and **JavaScript** to explore my interests and build cool stuff. I'm here to connect with like-minded friends.
 
 ---
 
