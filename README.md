@@ -1,21 +1,16 @@
-## Hi there, I'm exploring 🎨Art, Retro & AI
-### 💡 About Me / 关于我
+### 💡 🎨 Art, Retro & AI
 
-* **中文**：你好！我是一名艺术专业学生。我喜欢数码复古文化，也对前沿的人工智能（AI）领域感兴趣。目前，我正在使用 **Python** 和 **JavaScript** 来学习和创造我感兴趣的东西。我希望能在这里找到志同道合的朋友。
-* **English**: Hello! I'm a student majoring in Art. I am fascinated by retro aesthetics and the infinite possibilities of Artificial Intelligence. I'm currently using **Python** and **JavaScript** to explore my interests and build cool stuff. I'm here to connect with like-minded friends.
+![Art Student](https://img.shields.io/badge/Art_Student-FF69B4?style=for-the-badge&logo=canva&logoColor=white)
+![AI Explorer](https://img.shields.io/badge/AI_Explorer-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Retro Aesthetics](https://img.shields.io/badge/Retro_Aesthetics-8A2BE2?style=for-the-badge&logo=nintendo&logoColor=white)
 
----
+### 🛠 Tech Stack
 
-### 🛠 Tech Stack & Tools / 技术栈与工具
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Creative Coding](https://img.shields.io/badge/Creative_Coding-FF4500?style=for-the-badge&logo=p5.js&logoColor=white)
 
-* **Languages:** Python 🐍, JavaScript 💛
-* **Interests:** AI Art Generation (AI艺术生成), Retro Design (复古设计), Creative Coding (创意编程)
+### 🚀 Let's Connect
 
----
-
-### 🚀 Let's Connect / 与我交流
-
-* 🔭 **I’m currently working on / 我目前正在做**：将艺术创意代码化，探索技术与艺术。
-* 🌱 **I’m currently learning / 我目前正在学**：学习 Python 和 JS，以及探索 AI 如何赋能艺术创作。
-* 👯 **I’m looking to collaborate on / 我希望寻求同好**：任何有趣的项目，如果你也感兴趣，请务必联系我！🤝
-* 💬 **Ask me about / 欢迎跟我交流**：艺术设计、好用的 AI 工具，以及艺术生学编程的日常。
+![Looking for Collab](https://img.shields.io/badge/Looking_for_Collab-0078D4?style=for-the-badge&logo=github&logoColor=white)
+![Ask Me About AI & Art](https://img.shields.io/badge/Ask_Me_About-AI_%26_Art-1572B6?style=for-the-badge&logo=wechat&logoColor=white)
